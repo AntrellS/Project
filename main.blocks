@@ -1,1 +1,1 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="Iy(ZgUK%o6re,A7|iGWW" x="0" y="0"></block></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="X^[tZ_{S78HHgwYZs!Wl">Car1</variable><variable id="(tV!!`D_ZQ|3,a;`}/}a">Car2</variable><variable id="2%`3|C(@xlWp01JZ4_o;">Car3</variable></variables><block type="pxt-on-start" id="y|~[ll)}^;=[ok+?~vUt" x="0" y="0"></block><block type="gameupdate" id="ekX|!-#C%sWW%7PrQGH;" x="250" y="150"></block></xml>
